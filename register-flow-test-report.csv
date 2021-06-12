@@ -1,0 +1,275 @@
+
+#,First Name,Surname,Email,Soda Stream Model,Purchase Location,Date,Is Successful?,Remarks/Comments
+1,fe4c3599-ac50-47a,8afe3,8ad7b59@f5.bd,Jet,Power,2006-12-15,YES
+2,c8242164-b11e-4e6b-b22b-650b,4a5014f1-7286-4afa-bd,89d72@0e6.e,Genesis,Power,2017-12-30,YES
+3,1474008f-,8b8c8185-e273-4dfc-a,8@b1f.23,Spirit,Power,2005-12-26,YES
+4,95b08e78-8187-45b,1aef0f11-2c5f-45f8-a7ef-6233fa9,5a22e@25.13,Spirit One Touch,Power,2017-13-16,YES
+5,ddf2f523-a9,a0dc8bd8-00e1-407d-8ea6-0560208b,7309@b5.39,Crystal,Power,2006-13-01,YES
+6,78b2e,27d54a14-f677-49c6-81dd-1c,b79e4@793.f8,Source,Power,2018-13-22,YES
+7,77e5e741-6bb3-4563,9c6e73e0-2e1a-4,d272846@cd58.d,Power,Power,2003-13-14,YES
+8,bbfd6d00-eb69-43e1-b6be-21e2b,db2b1413-a539-416b-b,74d5a1@622a728a.4e,Jet,Netonnet,2011-13-27,YES
+9,99be240d-06fe-4031-bbae-778cbb7,6cbe6f29-4052-43f4-b910-2f8,d56a7a@6da8c.f7,Genesis,Netonnet,2006-13-21,YES
+10,a6ecca4a-f28d-4987-ab2c,20efd9,be335@b71c82e2-.42,Spirit,Netonnet,2018-14-12,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+11,1d2f,16ea4f43-4d17-4d99-97a2-42b37077d,388287c@b12cb0.5,Spirit One Touch,Netonnet,2006-14-10,YES
+12,b6685353-2880-41e4-a2,d7e7ddca-cdd2-41ef-834e-092,dc1@7f.0,Crystal,Netonnet,2003-14-02,YES
+13,8d52f450-a85b-4a26-8a75,ca56b531-4100-481a-83d,762ce7@cbe.31,Source,Netonnet,2012-14-03,YES
+14,8820a246-2451-4a6b-a0c3-4e1096,56f38288-9d15-4bb1-9641-,319d0@11.7,Power,Netonnet,2006-14-30,YES
+15,9bb9219c-1b0f-4eb7-9ee3-c15b73c,3926721b-444a-462e-b,d39@520975b2.2,Jet,Mediamarkt,2007-15-17,YES
+16,93528e8d-bc5f-,f6418c39-722b-48b6-83,874e@44.d,Genesis,Mediamarkt,2004-15-10,YES
+17,2b006629-65d7-44e6-8c7f-d1f,7ceda387-3f83-4704-8c29-5d16a3d65,0f3@b537bb84.4,Spirit,Mediamarkt,2017-15-06,YES
+18,ce00f28d-c244-4db,8321ac13-afa,73@5330.19,Spirit One Touch,Mediamarkt,2020-15-29,YES
+19,b3db8702-0,dfe7e0fc-d54d-43b1,799@530d7.2,Crystal,Mediamarkt,2014-15-28,YES
+20,2c3f,453f7aed-,c60a6@995.7,Source,Mediamarkt,2016-15-08,YES
+21,96a1f49f-0ce2-41c0-,c,2f@c.5,Power,Mediamarkt,2004-16-19,YES
+22,646,6a222,77f9@02312046-.3,Jet,Webhallen,2004-16-18,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+23,3bc10d61-3cf4-4f86-b71a-,e09a510a,8@22b76f.8,Genesis,Webhallen,2014-16-01,YES
+24,f63fe92a-8637-4e,8abad3e9-d4ce-4ab2-ac65-592bea91,1bec@e8329.d,Spirit,Webhallen,2016-16-30,YES
+25,3ea5f7d4-,6649c1a8,46dc@2bf.8,Spirit One Touch,Webhallen,2016-16-07,YES
+26,c8657912,a9a01719-6166-4eeb-b3,ddc0@b0177.e5,Crystal,Webhallen,2011-17-25,YES
+27,2ae857d2-657e-4643-bddc-5a1e6ea2,e67e346e-6d13-4745-b,3@373e.5,Source,Webhallen,2003-17-31,YES
+28,73525fdf-e6,01b56bf3,c0b9@97f4d75.b,Power,Webhallen,2017-17-20,YES
+29,e4ff7437-139b-41f0-b0,7b52,a6@e1c4.b,Jet,Elgiganten,2009-17-24,YES
+30,e93ed666-2a61-4d91-8,b089ed0f-c762-4d28-b6,356@372cf060-.5e,Genesis,Elgiganten,2015-17-15,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+31,fd2d400c-ae93,8eed256a-a7ab-4093-,2@2c5e9a0.5,Spirit,Elgiganten,2018-18-14,YES
+32,3a253b0f-724a-4792-b7,abad80be-159d-4173-8f3f-6,3989b@85dde2.d6,Spirit One Touch,Elgiganten,2017-18-10,YES
+33,890b,81b1f1d4-,dab@bf67d44.4,Crystal,Elgiganten,2013-18-08,YES
+34,260fdfc6-821d-4f11-955e-e25c,574f0ab0-d36c-4366-a2f7-9,73@b5819a.7,Source,Elgiganten,2013-18-07,YES
+35,54a2afba-f490-,a9263a90-891c-4,9b315@5807a.e0,Power,Elgiganten,2003-18-04,YES
+36,97,6c522de7-b301-404b-aa1a-,f@3f46f004-.89,Jet,Hemmy,2001-19-30,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+37,1e4ed9aa-f8e3-45fe-ade6-,3fef24,a7@ba3b4a9a.7,Genesis,Hemmy,2002-19-17,YES
+38,de94,52be616d-7d2f-4500-aa,60e@50a786.60,Spirit,Hemmy,2006-19-17,YES
+39,38cfb121-43d9-4478-,ef0158,4162c@33.9,Spirit One Touch,Hemmy,2013-19-17,YES
+40,bf57426a-b3d3-4dea-8800-404,09d08fdb-52cc-4167-b95c-7f24331bf3,efbaef3@ffdb1.da,Crystal,Hemmy,2012-19-29,YES
+41,7c4f6463-e783-4840-b4f3-26203,ab558a8c-3531-47a5-9d45-ca,c5fe176@f5b8.7f,Source,Hemmy,2009-20-06,YES
+42,ae01c535-d8f5-4566-bf73-7ab888ec,651134b7-c9ca-4343-a8e1,a7@5a2c52b6-.9c,Power,Hemmy,2018-20-28,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+43,742162c7-edbe-427a-a,2a58e214-a73c-439f-9,655@1dd.b,Jet,CDON,2017-20-30,YES
+44,906f7e5a,4c7d3b1e-3f64-45f5-847b-,c@828143a.c,Genesis,CDON,2006-20-12,YES
+45,bff283c1-5,97acd7b9-16f2-4dc8-a998-3,403b@b4c62c7.d2,Spirit,CDON,2015-20-06,YES
+46,d1c3373e-baac-498f-87eb,8f3ccec7-df8f-43d1-8661-99,3358@9c036.8,Spirit One Touch,CDON,2017-21-25,YES
+47,d49c48bc-2e37-4fa3-b3db-,bfe0c,2c1d@7012f27.d,Crystal,CDON,2002-21-16,YES
+48,36af8608-9f6f-4b,792217db-f605-4d5d-a1dc-875,c49@2ce9cd.4,Source,CDON,2017-21-26,YES
+49,3c9c68,30b469d7-ef24-4354-88b3-92aef2c,3@02a120a.d,Power,CDON,2006-21-24,YES
+50,d,bc,c63c3@3feac3.c,Jet,Whiteaway,2014-21-01,YES
+51,c57e9d64-,bb3ccb21-e532,903@1db185b.6,Genesis,Whiteaway,2003-21-12,YES
+52,615037e4-5bf0,5e878523-691d-40a,d@1b.7,Spirit,Whiteaway,2009-22-20,YES
+53,656ccb87-9f8b-4118-95e7-84018d,9d07506e-ee68-45,c0303@f19bd0.0,Spirit One Touch,Whiteaway,2006-22-25,YES
+54,cd6ea0b,70ed6,4@401667.2,Crystal,Whiteaway,2004-22-02,YES
+55,192,ad7a2c9e-439f-4949-a820-5dd,7d697@a.1,Source,Whiteaway,2012-22-07,YES
+56,66dc9c3c-489b-4424-,f69bc41d-4155-4a28-9664-2740,e5e8@6.5,Power,Whiteaway,2007-22-03,YES
+57,96c5e03f-311a-46e0-b1b5-7ec26c,4560e965-4859-4d6f-a6,5a8e@c.47,Jet,Tretti,2012-22-07,YES
+58,2f5ceedf-4ef8,3da98a82-3e77-4,f5776@2fa05c86.9a,Genesis,Tretti,2016-23-29,YES
+59,fb65ec7b-0a00-46be-9,da69,f8f7@fb23d01a.6,Spirit,Tretti,2018-23-05,YES
+60,6dd,90,d432621@f30.f,Spirit One Touch,Tretti,2013-23-30,YES
+61,e,eb253307-3aa3-46,276e@8cf2260.e,Crystal,Tretti,2010-23-25,YES
+62,58215fee-332b-,f19403f0-a6e5-4d89-8b60,cc0ba8@76a.c,Source,Tretti,2007-23-19,YES
+63,8d917c4b-97d4-4c23-afca-a21c5e2d86,682efa21-2,0f@9.3b,Power,Tretti,2007-23-16,YES
+64,259abc20-8d6b-4312-a94,83ed7fdc-,145@935a2d.fc,Jet,Kjell &amp; Company,2017-24-01,FAILED,Cannot locate option with value: Kjell &amp; Company
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: driver.version: unknown
+65,2a898,34da7461-34b3-4bb6-a9c7-9cbf086,59042d@1d7340f3.b,Genesis,Kjell &amp; Company,2002-24-05,FAILED,Cannot locate option with value: Kjell &amp; Company
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: driver.version: unknown
+66,d77d7666-0b57-407d-afd8-29b15f,9de9f7dc-d552-4a6,176e2f@e67d.d,Spirit,Kjell &amp; Company,2011-24-21,FAILED,Cannot locate option with value: Kjell &amp; Company
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: driver.version: unknown
+67,49,83931cf,7fe1@db6f0c.bc,Spirit One Touch,Kjell &amp; Company,2017-24-06,FAILED,Cannot locate option with value: Kjell &amp; Company
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: driver.version: unknown
+68,aa2462f3-9595-4787-a659-f8a96,3cd7769d-9d2,593d@925a2ae0-.41,Crystal,Kjell &amp; Company,2008-24-10,FAILED,Cannot locate option with value: Kjell &amp; Company
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: driver.version: unknown
+69,c2a85dc1-7071-4818-bf05,bc6,5ccc@ea.1,Source,Kjell &amp; Company,2005-25-02,FAILED,Cannot locate option with value: Kjell &amp; Company
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: driver.version: unknown
+70,41f62,8cc61,b9@d3.b,Power,Kjell &amp; Company,2019-25-09,FAILED,Cannot locate option with value: Kjell &amp; Company
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: driver.version: unknown
+71,b5402b68-01af-4ab,3d9a6b8f-d594-473c-9451,f75@d00c6a60.5,Jet,Komplett,2013-25-03,YES
+72,7ac,2618cfc5-4,2@475159.2,Genesis,Komplett,2011-25-25,YES
+73,f4ba0,34e,8@0c745eca.7,Spirit,Komplett,2016-25-10,YES
+74,4291d218-b936-4cec-8db3-e45a159,854a04d7-6b64-4121-9817-fa,245@50fb.7,Spirit One Touch,Komplett,2002-26-10,YES
+75,a6d19839-,5562,dc2d0@4f54d3.8,Crystal,Komplett,2020-26-18,YES
+76,a512e42,468c4196-f1c5-476,7d6fa7@8f0.5b,Source,Komplett,2011-26-22,YES
+77,36589dfa-99fc-40cb-8a55-,8e0346ad-68c5-45ca-a666-b6c,6a7@d6a5ee.18,Power,Komplett,2007-26-03,YES
+78,597edef0-,70510de,25750f@b11f551.b,Jet,Proshop,2004-26-16,YES
+79,3d32a770-abcb-4689-93,85f27493-c6da-4134-a284-c4f2,58686@625df6.8,Genesis,Proshop,2002-26-24,YES
+80,2,bb42658c-1d93-41,6c04e69@8ab.f,Spirit,Proshop,2003-27-20,YES
+81,3f479d36-9cd0-4,05ab38dd-5e27-491b-a199-3,5@dc6.03,Spirit One Touch,Proshop,2004-27-29,YES
+82,e042d948-f34,e6caeb75-8a95-434d-ac90-f4ae527d9c,598ad@de17df31.5,Crystal,Proshop,2003-27-11,YES
+83,384b82a1,a33d368c-838e-441e-a,4b313f@b70c2f15.6,Source,Proshop,2014-27-02,YES
+84,b14e4bf5-0260-4500-a101-87,1527fc9,82af@0cbe4.9,Power,Proshop,2009-27-30,YES
+85,2c4f5043-619c-4f7b-8f,0abbbfa4-3bcb-411f-aa3f-b6571741e8,c46d8@e59ed9e6-.3,Jet,Clas Ohlson,2018-27-06,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+86,54abc431-,f14f555d-01c3-478d-b279-603,bf27d00@ec273.b6,Genesis,Clas Ohlson,2008-28-11,YES
+87,30,5b7e8554-8931-4560-a2b2-c6,e040747@0b63.a,Spirit,Clas Ohlson,2002-28-10,YES
+88,60f3ecfd-2,4dcd52c7-,b0@25fc990b-.2,Spirit One Touch,Clas Ohlson,2006-28-30,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+89,2cf65f4f-8dd7-43f4-9d97-5a41dbe20,9c883fd6-282d-4482-,b75@5.11,Crystal,Clas Ohlson,2006-28-12,YES
+90,cd5ddc73-1906,beb83078-833e-460a-9b6b-aabc,d@de6be8.f,Source,Clas Ohlson,2018-29-23,YES
+91,eea5bb83-7b,34,903@ac5b.9,Power,Clas Ohlson,2011-29-03,YES
+92,09013778-e1,ff31f646-c613-4ec,d10@e666.ba,Jet,Bagaren och Kocken,2013-29-06,YES
+93,69362a4,fc03a510-bb07-4d5b-8b1c-016b298,c0385@1f0.1,Genesis,Bagaren och Kocken,2020-29-07,YES
+94,8b71d518-1ffe-447c-8d5,2dfecdce-33df-4955,1e32a7@2c84798.8,Spirit,Bagaren och Kocken,2018-29-27,YES
+95,cd44bcc6-d39c-45bc-b58e-7e9,e13d8a,e@e3c8.f,Spirit One Touch,Bagaren och Kocken,2003-29-21,YES
+96,a287df2,e9cb4775-7a15-4c0a-b17a-1a916eb,d@462eefe.2,Crystal,Bagaren och Kocken,2009-30-29,YES
+97,80f803fd,54611a53-e0f5-4e93-b2fe-265,d@059.0,Source,Bagaren och Kocken,2003-30-26,YES
+98,fa3d0300-6134-4b21-94de-,d7edd339-469e-4c,9f@2ef89cdb-.9a,Power,Bagaren och Kocken,2004-30-13,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+99,043f9ad2-c793-4547-a606-32,e26a9f8b-03d6-4878-9,5cc565e@f1ac.c3,Jet,Kökets favoriter,2007-30-04,YES
+100,5,a9,2d3b@1.4,Genesis,Kökets favoriter,2005-30-03,YES
+101,48de11d5-8cda-4f9b-a9b,f216b8da,06@28.f,Spirit,Kökets favoriter,2019-31-03,YES
+102,36167f63-2a1c-4298-b695-a4,5413728f-,5eb05@c9875.ca,Spirit One Touch,Kökets favoriter,2004-31-27,YES
+103,de5e33a0-aab1-4987-,d4a11ba8-1ded-45bf-a1,b6@18225.f,Crystal,Kökets favoriter,2018-31-29,YES
+104,796,2a9c97cc-a609-4d5d-8d1b-6783efe,27@e3d.df,Source,Kökets favoriter,2013-31-03,YES
+105,0fc80,4d3c3688-8bdc-4638-90af-173092b12,bc5@e8.d4,Power,Kökets favoriter,2016-31-30,YES
+106,3c1b077f-,c8f48,00@94a.e,Jet,Elon,2008-31-27,YES
+107,c2bc1286-d,a520b998-5,2ed@23d0060a.98,Genesis,Elon,2003-32-06,YES
+108,fe0963c6-25c8-4341-bea5-b07971b,77fe1907-2,87dd469@9586ed0.6,Spirit,Elon,2020-32-22,YES
+109,b3b31f70-f34,08ecb7ab-6f7f-42b0-b0ca-a,621dc0@916edb.0f,Spirit One Touch,Elon,2006-32-01,YES
+110,415ff845-240b-4425-b5e0-78fbc,27eebd66-2eef-4efe-be,e3dd@de94b34f.0,Crystal,Elon,2012-32-02,YES
+111,9f70cc90-5c7,a8729d22-7822-4a50-9c24-fcc6,e2a@915.67,Source,Elon,2006-32-16,YES
+112,c7652c9f-b3a2-4395-870f-81c9,0c91c230-8263-47a6-b,12bc2@ac9b695.9,Power,Elon,2006-32-04,YES
+113,7f7e8869-12fe-,f5acf4a9-de21-4e83-a0,70f5b75@29cb147.0,Jet,ICA,2015-33-20,YES
+114,b43e,e464b640-20ee-4234-87f8-016d7de1,86ba0@bbbc02.c,Genesis,ICA,2009-33-19,YES
+115,b8baedc0-b489-4fce-bbde-b03,70326f61-1622-44a6-be91-e495a,a5077@32e8e.1,Spirit,ICA,2008-33-04,YES
+116,501f1,df0221f9-5202-4848,e3292@d7.70,Spirit One Touch,ICA,2006-33-02,YES
+117,104a1294-586f-4052-bd44-13522f16a,07dd715f-a9f8-4ddb-a80e-5becd25a,cc@940da8.89,Crystal,ICA,2019-33-25,YES
+118,88f2,a89da0,49cc7ed@ccea0d.7,Source,ICA,2020-33-12,YES
+119,619e6b7a-4,c7,ce70@d43cc2.11,Power,ICA,2002-34-27,YES
+120,2516c813-4853-4720-9845-de,89896,06c6f9@3f5f.91,Jet,City Gross,2004-34-23,YES
+121,b4a8a77c-4f10-4ebf-a74,28d,2ba@0fe.0,Genesis,City Gross,2018-34-03,YES
+122,10a0aaa7-f859-4387-a,fbb54cef-004b-4e42-8908-02814c1119,f4@c35b.6a,Spirit,City Gross,2004-34-18,YES
+123,78b6b97a-5cfd-444b-a8a8,e919002e-ab2d-4e74-b,bb937@46cdd80.c,Spirit One Touch,City Gross,2011-34-01,YES
+124,f6e3baaa-5585-4935-aa07-363d3d12,6142f06,f@a2796.f,Crystal,City Gross,2009-34-07,YES
+125,b8a71c00-4ed5-,e087956b,2028e@02.14,Source,City Gross,2006-35-15,YES
+126,5e25346d-34d6-4c11-8a,3fc390d3-ce0b-46,fc968b1@ad4536.8a,Power,City Gross,2016-35-17,YES
+127,e5fe2be8-828b-48fb-8d,e6492e3d-3026-4dee-b2e0-,c7@d5f2.5,Jet,COOP,2013-35-28,YES
+128,ea539f68-e137-4,5ee8275e-50fb-4ae5-8aa9-1d81,d8873@2a5d.5e,Genesis,COOP,2013-35-10,YES
+129,f3eb21fc-,f5e62af7-bbe5-4373-9c9e,40c@d5.6,Spirit,COOP,2011-35-06,YES
+130,2a4ab00f-3499-,58b7012b-7e30-4111-b2e9-8cd58ed165,e48ddb@8.b,Spirit One Touch,COOP,2011-35-25,YES
+131,bf97f665-8c,d76fec8,e5@738c.ad,Crystal,COOP,2013-35-29,YES
+132,538b3adb-106e-,35f7a1bb-930e-42b9,b74c@cae0e476-.e9,Source,COOP,2001-36-04,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+133,b3c560d7-f231-47d0-ba3d-,890,49b@601.26,Power,COOP,2018-36-09,YES
+134,7395143f-e225-4bfd-a,1ecfe4f8-6dc2-4a7,f18e611@ea9cfd9.21,Jet,Ellos,2020-36-28,YES
+135,13,a9467768-586b-4bcc-9ef0,c03e@94a253.8a,Genesis,Ellos,2019-36-19,YES
+136,933d8a2a-cdb7-4e38-8db,315ba360-3fe2-4039-a0,c9a0@a87.f,Spirit,Ellos,2017-37-08,YES
+137,6460731,392dfef1-,dd2a967@8adaf.3,Spirit One Touch,Ellos,2004-37-22,YES
+138,d43da540-2,8be01770-0cdc,153@7da2a.3,Crystal,Ellos,2013-37-25,YES
+139,c2fadecc-89b6-4971-99,88ee6e79-ff41-49,c8f5@b54ad4.61,Source,Ellos,2008-37-06,YES
+140,4c66ee23-7fcd-496f-,171378f0-ca6c-4ab9-bf0f,f97@f10f5e7a.4,Power,Ellos,2007-37-06,YES
+141,8d48c6a8-,5155b61,1@6d1c147.9,Jet,Proshop,2013-37-11,YES
+142,c032490,aa418165-5812-476a-99cc-81,e4@0334b592.f0,Genesis,Proshop,2016-38-12,YES
+143,326cf0b4-4f83-46be-9d,a659e640-a075-4fa0-a4,65bbaa@f010a94a-.a8,Spirit,Proshop,2014-38-22,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+144,fafbbb40-c,dbec7452-ebc1-402f-94ff,9a57@5d.40,Spirit One Touch,Proshop,2003-38-18,YES
+145,4772466b-f91c-44f6-bc4e-,e28b04b3-c224-4b40-9d6d-d438,50cd2e@6c791.0,Crystal,Proshop,2003-38-28,YES
+146,d2a6ec82-db86-4ae0-bb9c,9444e20a,42e7b@232089be-.cb,Source,Proshop,2014-38-01,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+147,89efaa07-98b5-4f0,4bacc798-ce39-4d59-,39@0cfa.65,Power,Proshop,2020-39-01,YES
+148,b204dc64-fbdc-4463-b6,e7dc6144-89b7-464c-85,0d2af@a3e9b.6,Jet,Hemköp,2014-39-17,YES
+149,a8f15190-0a84-4b0a-a4,065d6829-8710-4081-8732-715a881,1d90f9@f0136c.84,Genesis,Hemköp,2017-39-30,YES
+150,24335c10-b7fc,021c8900-45,78@fb94a4a0.87,Spirit,Hemköp,2009-39-15,YES
+151,2be97be3-,019cc9ec-948a-470e-ae,ed2612@5f2541c.dd,Spirit One Touch,Hemköp,2017-39-20,YES
+152,a6ba2428-c3e3-4fcb-a58f-61349cc5f,e43a2cc1-1ebd-4d18,0@4527e51.5e,Crystal,Hemköp,2007-40-17,YES
+153,321fee20-8,899a8858-479b-4e,2745e60@4498b09.d8,Source,Hemköp,2012-40-09,YES
+154,38b581ef-70c1-43df-8481-d760,c37b332d-5325-4e0c-aa40-cd5,ebbd6b@74a23.28,Power,Hemköp,2003-40-21,YES
+155,b50a8c3d-bd,57e8c75a-c7ca-4e1f-,3827@5c.41,Jet,Willys,2001-40-20,YES
+156,f31bfa5f-ed4a-49e9-b,1be7008e-fccc-467a-9a7,a45d5c0@086b79e9.0,Genesis,Willys,2021-40-02,YES
+157,78ccdb2b-6d8a-4060-8b25-a4c72a16,b3ce3170-7581-4f32-86aa-f57b,0da63@f2.67,Spirit,Willys,2016-40-11,YES
+158,214b,e5d613ca-aeef-4b28-a8,2532273@0.3,Spirit One Touch,Willys,2004-41-11,YES
+159,ddbb5b21-ab0e-41a2-a,ac3c,2f30@1b31e836-.74,Crystal,Willys,2004-41-10,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+160,96d60a5c-2,8aa7eff4-76a3-4050-b665-1c38,c4f55e5@6da6fc43.e,Source,Willys,2004-41-14,YES
+161,25d70978-cb63-443f-a,39b21c91-095a-48e2-b77f-b511afd,e@b.a2,Power,Willys,2003-41-21,YES
+162,8fafb1a6-af48-4c7,49a25989-59b9-4a18-96ff-a4,1@f593.c,Jet,Tempo,2021-41-05,YES
+163,401df9dc-080e-4f03-97d,6cb6c5b5-4f03-,7113@b8525026.e,Genesis,Tempo,2019-42-01,YES
+164,b,cb7fa0b9-1114-46c9,31676bf@67.6,Spirit,Tempo,2016-42-10,YES
+165,ad6ddeb1-,b2d882cd-7936-4b01-96a8-d6,b4@9df.42,Spirit One Touch,Tempo,2017-42-15,YES
+166,f,31af56b7-4ef7-40,c412292@e05cc.1,Crystal,Tempo,2006-42-25,YES
+167,09d5b6fc-fb28-48ba-aa66-c,05d98ed4-cc9d-45a7,7eb@2d1328e.4b,Source,Tempo,2016-42-19,YES
+168,deec45d5-3e4f-41f1-,f8e6cbe5,165a@a76540d6-.d,Power,Tempo,2008-42-04,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49
+169,bd012a4,d090f121-6a3a-4e8c-82bd-,4344@880990f.4,Jet,Sodastream.se,2018-43-29,YES
+170,a6d6e6dd-1ab9-42bb-,e9c476dc-77,fd797e8@55d.1,Genesis,Sodastream.se,2010-43-01,YES
+171,ce62f406-cc8,d2718cf9-d150-4a92-816e-ecb77,81@b966ddca.c0,Spirit,Sodastream.se,2013-43-02,YES
+172,1fa604fb,014,d515@9c5.e9,Spirit One Touch,Sodastream.se,2002-43-21,YES
+173,8cee4d29,28d78b71-d359-4f7c-8d82-b36f,fc@1.3e,Crystal,Sodastream.se,2003-43-18,YES
+174,a5025a9b,f62a8bd0-f9f,b53@66.40,Source,Sodastream.se,2002-44-06,YES
+175,e45acbe9-ad90-4b0c-b2a5-4d,cc528543-2a55-4c8b-95c1-8,b@00402855-.1,Power,Sodastream.se,2019-44-25,FAILED,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (c6dc9c2d779ee244c3c48500f9d2ba49)] -> id: register-form-result] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02FC1R9MD6R', ip: 'fdaa:bbcc:ddee:0:1007:82a0:1f21:52f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.4', java.version: '11.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.101, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/pf/pgpmzl7n5fd...}, goog:chromeOptions: {debuggerAddress: localhost:51093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6dc9c2d779ee244c3c48500f9d2ba49

@@ -5,31 +5,31 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.concurrent.TimeUnit;
 
-import static javax.management.timer.Timer.ONE_SECOND;
 import static org.openqa.selenium.By.*;
 
 public class RegisterFlow {
     private static final String BASE_URL = "https://sodastream.se/?preview_theme_id=83892338778";
     private final WebDriver driver;
     private final WebDriverWait driverWait;
+    private boolean popupClosed = false;
 
     public RegisterFlow(WebDriver driver) {
         this.driver = driver;
-        this.driverWait = new WebDriverWait(driver, 60);
+        this.driverWait = new WebDriverWait(driver, 15);
         this.driver.manage().window().maximize();
     }
 
     public void navigateToRegisterPageFromHomePage() throws InterruptedException {
         driver.get(BASE_URL);
         verifyQAEnv();
-        closePopup();
+        if (!popupClosed)
+            closePopup();
         driver.findElement(linkText("Registrera")).click();
     }
 
@@ -53,6 +53,7 @@ public class RegisterFlow {
         } catch (Exception ex) {
             System.out.println("No Element found to close the popup!");
         }
+        popupClosed = true;
         driver.switchTo().defaultContent();
     }
 
@@ -63,7 +64,7 @@ public class RegisterFlow {
         new Select(driver.findElement(name("sodastream_model"))).selectByValue(registerForm.getSodaStreamModel());
         new Select(driver.findElement(name("purchase_location"))).selectByValue(registerForm.getPurchaseLocation());
         var jsExec = (JavascriptExecutor) driver;
-        jsExec.executeScript("document.getElementById(\"date\").setAttribute('value', '1950-10-01')");
+        jsExec.executeScript(String.format("document.getElementById(\"date\").setAttribute('value', '%s')", registerForm.getPurchaseDate()));
         driver.findElement(name("accept_terms")).click();
         driver.findElement(id("submit-btn")).click();
         return driverWait.until(ExpectedConditions.visibilityOf(driver.findElement(id("register-form-result")))).getText();
